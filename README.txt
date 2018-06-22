@@ -1,5 +1,5 @@
 
-This is a Star Wars Jedi:Knight Jedi Academy Speedrun Tool - https://www.speedrun.com/jka
+This is a Star Wars Jedi Knight:Jedi Academy Speedrun Tool - https://www.speedrun.com/jka
 
 In hopes of finding a solution to the constant memory leaks in JKA, I wrote this tool to be a LEGAL tool for speedrunners to use. Other people in the JKA speedrunning community have put together tools that change, inject, read/write, the game's source code , however have all be deemed illegal for submitted runs.
 This tool simply reads how many times you use your load key and at a certain amount, which the user sets, presses the vid_restart key. 
@@ -18,7 +18,7 @@ Steps:
 				--- Start of text contents ----
 				@echo
 				start "" "path to jasp.exe""
-				start "" "path to __main__.pyw""
+				start "" "path to __main__.pyw"
 				---End of text contents ----
 			3. Save file as file.bat
 			4. Right Click your JKA short cut 
