@@ -8,10 +8,11 @@ When downloaded simply change config.py to your load button that you use, your v
 
 Steps:
 	1. Download repo and unzip it. Save it somewhere you can find it. 
-	2. Open config.py with notepad++ or any other code editor and change values to fit your needs.
-	3. Set your keys and load amount.
+
+	2. Open config.py with notepad++ or any other code editor and change the previous values to fit your needs.
 		a. If you use mouse buttons for save/load go into your mouse profiles and save your mouse buttons to use other keys on the keyboard. Like so, https://gyazo.com/2a9fd1bb403445940a31c746a822ca79 .
-	4.When you are ready to go, simply launch __main__.pyw and it should work. If you want to end the script hit your closeService button to end it. 
+
+	3. When you are ready to go, simply launch __main__.pyw and it should work. If you want to end the script hit your closeService button to end it. 
 		a. OPTIONAL (Also Reccomended)  - Creat Shortcut with .bat file 
 			1. Create JKA shortcut
 			2. In a text file, 

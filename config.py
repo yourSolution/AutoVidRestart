@@ -1,6 +1,6 @@
 loadButton = "b"
-loadAmout = 15
-vidresart = "o"
+loadAmount = 15
+vidRestart = "o"
 closeService = "page_up"
 
 #escape = esc

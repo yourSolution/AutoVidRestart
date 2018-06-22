@@ -1,6 +1,6 @@
 import config
 import ConfigService
-userInfo = ConfigService.DeCrashService(config.loadAmout, config.vidresart, config.loadButton)
+userInfo = ConfigService.DeCrashService(config.loadAmount, config.vidRestart, config.loadButton)
 
 
 def on_press(key):
