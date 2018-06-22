@@ -12,5 +12,4 @@ def on_press(key):
 
     if k == config.closeService:
         raise SystemExit
-
     userInfo.vidRestart(k)
